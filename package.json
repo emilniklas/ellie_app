@@ -5,5 +5,8 @@
   "dependencies": {
     "eliot": "git://github.com/emilniklas/eliot#develop",
     "ellie": "git://github.com/emilniklas/ellie#develop"
+  },
+  "engines": {
+    "node": "6.2.x"
   }
 }
