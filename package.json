@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "eliot index.js --jsx"
+  },
+  "dependencies": {
+    "eliot": "git://github.com/emilniklas/eliot#develop",
+    "ellie": "git://github.com/emilniklas/ellie#develop"
+  }
+}
